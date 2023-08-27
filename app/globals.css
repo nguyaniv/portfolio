@@ -35,3 +35,7 @@ body {
   height: 368px;
   width: 100%;
 }
+
+div,p,section {
+  color: white;
+}
