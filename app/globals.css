@@ -36,6 +36,6 @@ body {
   width: 100%;
 }
 
-div,p,section {
+div,p,section, ul, li {
   color: white;
 }
