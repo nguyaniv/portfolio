@@ -31,10 +31,10 @@ export default function Home() {
             About me
           </div>
           <p className=" leading-9 text-xl">
-            Balancing freelance work alongside my employment, I'm wholeheartedly
-            committed to fostering effective teamwork and eagerly taking on
-            extra responsibilities, fueled by my genuine passion for coding and
-            unwavering dedication to personal growth.
+            Balancing freelance work alongside my employment, I&apos;m
+            wholeheartedly committed to fostering effective teamwork and eagerly
+            taking on extra responsibilities, fueled by my genuine passion for
+            coding and unwavering dedication to personal growth.
             <span className="bg-yellow-300 text-black p-1">
               With 2 years at Onezero and an additional 2 years freelancing
               concurrently
